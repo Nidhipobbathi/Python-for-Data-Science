@@ -25,7 +25,9 @@ Python-for-Data-Science/
 └── Pandas/
     ├── Countries_EDA.ipynb
     └── Countries.csv
-```
+    └── IPL_2022_Data_Analysis.ipynb
+    └── IPL.csv
+
 
 ## Featured Projects
 
